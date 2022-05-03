@@ -1,0 +1,29 @@
+.book__form{
+    background-color: rgb(0, 0, 0);
+    display:flex;
+    width:auto;
+    padding:1rem;
+   align-items: center;
+    flex-direction: column;
+    gap:1.1rem;
+    font-size:1.3rem;
+    color:white;
+    border-radius: 10px;
+}
+
+.book__form input{
+    border:none;
+    color: black;
+    font-size:1rem;
+    padding:0.2rem;
+    background-color:rgb(243, 243, 164)
+}
+
+.book__form input:focus{
+   outline: none;
+}
+
+.form__details{
+   display: flex;
+   gap:1rem;
+}

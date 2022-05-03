@@ -1,0 +1,33 @@
+.button__cont{
+    width:auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap:1rem;
+   
+}
+
+.button__cont button{
+    cursor: pointer;
+    letter-spacing:1px;
+    
+    padding:0.5rem;
+    background: transparent;
+    font-size:0.9rem;
+    border-radius:10px;
+ 
+}
+
+#to_read{
+    color:yellow;
+    border:2px solid yellow;
+}
+
+#reading{
+    color:rgb(0, 34, 255);
+    border:2px solid rgb(4, 12, 101);  
+}
+
+#read{
+    color:rgb(18, 92, 7);
+    border:2px solid rgb(18, 101, 0);
+}
