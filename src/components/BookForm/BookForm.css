@@ -2,7 +2,7 @@
     background-color: rgb(0, 0, 0);
     display:flex;
     width:auto;
-    padding:1rem;
+    padding:0.5rem;
    align-items: center;
     flex-direction: column;
     gap:1.1rem;
